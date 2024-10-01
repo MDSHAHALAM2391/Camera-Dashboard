@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Camera-Dashboard/static/css/main.8d84f696.css",
+    "main.js": "/Camera-Dashboard/static/js/main.fbc1032b.js",
+    "static/js/787.e504d99e.chunk.js": "/Camera-Dashboard/static/js/787.e504d99e.chunk.js",
+    "index.html": "/Camera-Dashboard/index.html",
+    "main.8d84f696.css.map": "/Camera-Dashboard/static/css/main.8d84f696.css.map",
+    "main.fbc1032b.js.map": "/Camera-Dashboard/static/js/main.fbc1032b.js.map",
+    "787.e504d99e.chunk.js.map": "/Camera-Dashboard/static/js/787.e504d99e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d84f696.css",
+    "static/js/main.fbc1032b.js"
+  ]
+}
