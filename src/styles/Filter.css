@@ -1,0 +1,28 @@
+.filter-section {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.filter-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: fit-content;
+}
+
+.filter-dropdown {
+  padding: 5px 35px;
+  padding-left: 36px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  appearance: none;
+  width: 100%;
+}
+
+.filter-icon {
+  position: absolute;
+  left: 10px; 
+  pointer-events: none; 
+  color: #ccc; 
+}
